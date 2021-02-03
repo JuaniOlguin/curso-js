@@ -1,0 +1,26 @@
+{
+  "name": "basics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuaniOlguin/curso-js.git"
+  },
+  "keywords": [
+    "js",
+    "javascript"
+  ],
+  "author": "Juan Ignacio Olguin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuaniOlguin/curso-js/issues"
+  },
+  "homepage": "https://github.com/JuaniOlguin/curso-js#readme",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
